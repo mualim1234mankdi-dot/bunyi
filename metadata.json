@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge IGCSE Physics - Sound & Acoustics Interactive Lab",
+  "description": "Media ajar interaktif dan laboratorium simulasi fisika bab Bunyi (Sound): gelombang longitudinal, percobaan bell jar vakum, kecepatan bunyi, pemantulan & sonar, serta frekuensi & CRO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
